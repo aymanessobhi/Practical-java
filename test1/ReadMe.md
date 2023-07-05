@@ -6,12 +6,11 @@ Task 1: Java Fundamentals
     For example, if the input array is [3, 1, 4], the method should return [2].
 
    2- Write a Java method called printPattern that takes an integer n as input and prints the following pattern:
-
-	     *
-   	    **
-  	   ***
-          ****
-         *****
+			     *
+		   	    **
+		  	   ***
+		          ****
+		         *****
      The number of rows in the pattern should be equal to the value of n.
 
 Task 2: Object-Oriented Programming
