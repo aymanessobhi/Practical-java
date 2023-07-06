@@ -7,11 +7,11 @@ Task 1: Java Fundamentals
 
    2- Write a Java method called printPattern that takes an integer n as input and prints the following pattern:
 
-             *
-            **
-           ***
-          ****
-         *****
+			     *
+		   	    **
+		  	   ***
+		          ****
+		         *****
      The number of rows in the pattern should be equal to the value of n.
 
 Task 2: Object-Oriented Programming
