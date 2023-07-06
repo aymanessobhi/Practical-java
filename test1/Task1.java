@@ -32,7 +32,7 @@ public class Task1 {
                 expectedNum++;
             }
         }
-        //convert the list of missing numbers to an array
+        //convert the list of missing numbers to an array.
         int [] missingNumbersArray = new int[missingNumbers.size()];
         for (int i=0;i<missingNumbersArray.length;i++){
             missingNumbersArray[i] = missingNumbers.get(i);
